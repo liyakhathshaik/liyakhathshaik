@@ -6,6 +6,7 @@ I’m a Computer Science and Engineering student specializing in **Artificial In
 
 Each repository you find here is more than just code — it’s a **mission to solve**, a **concept engineered from scratch**, and a **step toward a smarter future**. 
 
+# Mail:-liyakhath0409@gmail.com
 
 # 🛠 Primary Tech Stack
 
@@ -63,5 +64,6 @@ Each repository you find here is more than just code — it’s a **mission to s
 ✔ Working on cutting-edge AI applications for future challenges  
 
 ## *Connect With Me*
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Liyakhath_0409/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liyakhath-shaik-216407280/)
