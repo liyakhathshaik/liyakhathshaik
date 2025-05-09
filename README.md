@@ -2,12 +2,9 @@
 
 Unlike most, I don’t build random projects just to fill a portfolio — I start with **real-world problems**, and then engineer solutions with purpose.
 
-I’m a Computer Science and Engineering student specializing in **Artificial Intelligence**, with a strong passion for **astronomy**, **robotics**, and **space exploration**. My work is fueled by the desire to solve meaningful challenges through innovative AI and technology. Whether it's developing gesture recognition systems for women's safety or exploring AI-powered solutions for space security, I always ensure that my projects **address real, impactful issues**.
+I’m a Computer Science and Engineering student specializing in **Artificial Intelligence**, with a passion for **astronomy**, **robotics**, and **space exploration**. I have a desire to solve meaningful challenges through innovative AI and technology. I always ensure that my projects **address real, impactful issues**.
 
-Each repository you find here is more than just code — it’s a **mission to solve**, a **concept engineered from scratch**, and a **step toward a smarter future**. I believe in technology that *matters* — built with intention, vision, and care.
-
-Let’s build the future, one intelligent solution at a time. 🚀
-
+Each repository you find here is more than just code — it’s a **mission to solve**, a **concept engineered from scratch**, and a **step toward a smarter future**. 
 
 
 # 🛠 Primary Tech Stack
