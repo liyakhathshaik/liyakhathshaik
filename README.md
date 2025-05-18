@@ -26,7 +26,6 @@ Each repository you find here is more than just code — it’s a **mission to s
 
 ## 🤖 Machine Learning & AI
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=for-the-badge&logo=langchain&logoColor=white)
 
 ## 🌐 Backend Development
