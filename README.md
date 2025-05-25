@@ -53,15 +53,11 @@ What you’ll find here , it’s me experimenting, learning, and doing my part t
 # ⚡ Areas of Interest  
 
 🌟 *Space Exploration & AI Applications*  
-✔ Applying AI to solve challenges in space technology  
-✔ Researching AI solutions for space food production  
-✔ Developing AI models for space security systems  
-✔ Exploring AI applications in astrophysics research  
+✔ Applying AI to solve challenges in medicine/health and space technology  
+✔ Researching AI solutions for health, space ,food production  
+✔ Developing AI models for medical, food, space fields.  
+✔ Exploring AI applications in biology and space research  
 
-🌟 *Solving Global Challenges with AI*  
-✔ Developing AI solutions for food security  
-✔ Creating sustainable technology models  
-✔ Working on cutting-edge AI applications for future challenges  
 
 ## *Connect With Me*
 
