@@ -1,9 +1,9 @@
-#👋 About Me
-# Hey there! I'm a Computer Science & Engineering student, diving deep into Artificial Intelligence with a big curiosity for medicine,biology, astronomy and robotics,.
+# 👋 About Me
+Hey there! I'm a Computer Science & Engineering student, diving deep into Artificial Intelligence with a big curiosity for medicine,biology, astronomy and robotics,.
 
-# I’m not really into building flashy portfolio projects just for the sake of it — I care more about exploring real-world problems and trying to understand them from different angles. My projects aren’t about # hype; they’re just my way of thinking through challenges and seeing how tech (especially AI) can genuinely help.
+I’m not really into building flashy portfolio projects just for the sake of it — I care more about exploring real-world problems and trying to understand them from different angles. My projects aren’t about # hype; they’re just my way of thinking through challenges and seeing how tech (especially AI) can genuinely help.
 
-# What you’ll find here isn’t “just code” — it’s me experimenting, learning, and doing my part to contribute to a smarter, kinder future in my own way. Nothing fancy. Just honest curiosity and a little ambition to make things better.
+What you’ll find here isn’t “just code” — it’s me experimenting, learning, and doing my part to contribute to a smarter, kinder future in my own way. Nothing fancy. Just honest curiosity and a little ambition to make things better.
 
 
 
