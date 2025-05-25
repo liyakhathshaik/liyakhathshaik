@@ -52,7 +52,7 @@ What you’ll find here , it’s me experimenting, learning, and doing my part t
 
 # ⚡ Areas of Interest  
 
-🌟 *Space Exploration & AI Applications*  
+🌟 Exploration & AI Applications*  
 ✔ Applying AI to solve challenges in medicine/health and space technology  
 ✔ Researching AI solutions for health, space ,food production  
 ✔ Developing AI models for medical, food, space fields.  
@@ -60,6 +60,6 @@ What you’ll find here , it’s me experimenting, learning, and doing my part t
 
 
 ## *Connect With Me*
-
+i have solved nearly 250 problems in leetcode .
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Liyakhath_0409/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liyakhath-shaik-216407280/)
