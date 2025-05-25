@@ -1,10 +1,11 @@
-# 👋 About Me
+#👋 About Me
+# Hey there! I'm a Computer Science & Engineering student, diving deep into Artificial Intelligence with a big curiosity for medicine,biology, astronomy and robotics,.
 
-Unlike most, I don’t build random projects just to fill a portfolio — I start with **real-world problems**, and then engineer solutions with purpose.
+# I’m not really into building flashy portfolio projects just for the sake of it — I care more about exploring real-world problems and trying to understand them from different angles. My projects aren’t about # hype; they’re just my way of thinking through challenges and seeing how tech (especially AI) can genuinely help.
 
-I’m a Computer Science and Engineering student specializing in **Artificial Intelligence**, with a passion for **ASTRONOMY**, **ROBOTICS**, and **MEDICAL AND BIOLOGY**. I have a desire to solve meaningful challenges through innovative AI and technology. I always ensure that my projects **address real, impactful issues**.
+# What you’ll find here isn’t “just code” — it’s me experimenting, learning, and doing my part to contribute to a smarter, kinder future in my own way. Nothing fancy. Just honest curiosity and a little ambition to make things better.
 
-Each repository you find here is more than just code — it’s a **mission to solve**, a **concept engineered from scratch**, and a **step toward a smarter future**. 
+
 
 # Mail:-liyakhath0409@gmail.com
 
